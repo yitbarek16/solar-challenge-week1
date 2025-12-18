@@ -1,4 +1,4 @@
-# Solar Energy Analytics Platform
+# MoonLight Energy Solutions - Solar Analytics Project
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B.svg)](https://streamlit.io/)
@@ -6,7 +6,7 @@
 
 ## 📋 Overview
 
-An interactive analytics platform for evaluating solar potential across West Africa.  
+A comprehensive data analytics project for evaluating solar potential across West Africa.  
 It analyzes solar irradiance metrics (GHI, DNI, DHI) from **Benin, Sierra Leone, and Togo** to support renewable energy investment decisions.
 
 **Key Objectives:**
@@ -46,7 +46,7 @@ Or Access at: `solar-dashboard.streamlit.app`
 
 ## Findings:
 
-- Benin shows the highest average GHI but with greater variability
+- Benin shows the highest average GHI, but with greater variability
 - Sierra Leone provides the most stable irradiance values
 - Togo offers balanced performance across metrics
 
